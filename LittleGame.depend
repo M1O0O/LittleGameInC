@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614607454 source:c:\users\administrateur.j208\desktop\littlegame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
